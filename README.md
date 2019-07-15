@@ -1,6 +1,6 @@
 # Project Overview
 
-Live Preview : https://samiee.github.io/MWS/
+[Live Preview](https://samiee.github.io/MWS/)
 
 The Udacity Restaurant Reviews project is part of both the Front-end Web Development and Mobile Web Specialist Nanodegree. Students were expected to incrementally convert a static webpage to a mobile-ready web application. The stage took a static design that lacked accessibility and converted the design to be responsive on different sized displays and accessible for screen reader use. It also required the addition of a service worker to begin the process of creating a seamless offline experience for users.
 
